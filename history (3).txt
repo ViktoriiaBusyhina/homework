@@ -1,0 +1,23 @@
+   0 nano sleeaper.sh
+   1 chmod u+x sleeaper.sh
+   2 ./sleeper.sh
+   3 ./sleeaper.sh
+   4 nano sleeaper.sh
+   5 ./sleeaper.sh
+   6 nano sleeaper.sh
+   7 ./sleeaper.sh
+   8 nano sleaaper.sh
+   9 nano sleeaper.sh
+  10 ./sleeaper.sh
+  11 nano sleeaper.sh
+  12 ./sleeaper.sh
+  13 nano sleeaper.sh
+  14 ./sleeaper.sh
+  15 nano sleeaper.sh
+  16 ./sleeaper.sh
+  17 nano sleeaper.sh
+  18 ./sleeaper.sh
+  19 nano sleeaper.sh
+  20 ./sleeaper.sh
+  21 ls /opt/user/task2/
+  22 history > history.txt

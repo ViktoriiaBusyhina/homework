@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for run in {1..10}
+do
+touch /opt/43_44_evening_b/viktoriia/homework/$run`date +%d%m%y`
+done
+
